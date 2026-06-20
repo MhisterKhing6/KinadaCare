@@ -1,3 +1,5 @@
+import { asset } from '../../lib/asset';
+
 interface Props {
   /** Optional image URL. When omitted, a labelled placeholder is shown. */
   src?: string;
@@ -18,7 +20,7 @@ export default function ImageSlot({
   className = '',
 }: Props) {
   if (src) {
-    return <img src={src} alt={alt} className={`h-full w-full object-cover ${className}`} />;
+    return <img src={asset(src)} alt={alt} className={`h-full w-full object-cover ${className}`} />;
   }
   return (
     <div

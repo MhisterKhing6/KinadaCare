@@ -1,8 +1,9 @@
 import Button from '../ui/Button';
 import Eyebrow from '../ui/Eyebrow';
 import { COMPANY } from '../../config/company';
+import { asset } from '../../lib/asset';
 
-const bannerUrl = '/assets/banner.png';
+const bannerUrl = asset('/assets/banner.png');
 
 export default function Hero() {
   return (

@@ -1,4 +1,5 @@
 import { COMPANY } from '../../config/company';
+import { asset } from '../../lib/asset';
 
 interface Props {
   /** Render wordmark in white (for dark surfaces). */
@@ -18,7 +19,7 @@ export default function Logo({ light = false, size = 'md' }: Props) {
         }`}
       >
         <img
-          src="/assets/logo-mark.png"
+          src={asset('/assets/logo-mark.png')}
           alt={`${COMPANY.name} logo`}
           className={`${markImg} object-contain`}
         />
