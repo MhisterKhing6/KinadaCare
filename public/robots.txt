@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.kindacarellc.com/sitemap.xml
+Sitemap: https://www.kindacarehc.com/sitemap.xml
