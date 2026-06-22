@@ -32,7 +32,7 @@ export default function Footer() {
             </span>
           </div>
           <p className="max-w-[320px] text-[15px] leading-relaxed text-[#8FA0BC]">
-            Bringing you professional, kinder care so your loved ones can live comfortably at home.
+            Bringing you compassionate, professional, kinder care.
           </p>
         </div>
 

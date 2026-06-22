@@ -9,7 +9,7 @@ export default function ValueProps() {
       <div className="mb-10 max-w-[640px] md:mb-[52px]">
         <Eyebrow className="mb-5">Why families choose us</Eyebrow>
         <h2 className="font-display text-3xl font-medium leading-[1.08] tracking-[-0.015em] text-ink [text-wrap:balance] md:text-[48px]">
-          Care you can trust, attention they deserve.
+          Care you trust, attention you deserve.
         </h2>
       </div>
       <div className="grid grid-cols-1 gap-[22px] sm:grid-cols-2 lg:grid-cols-4">

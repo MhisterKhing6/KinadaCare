@@ -56,7 +56,7 @@ export default function Hero() {
         </div>
         <div className="absolute inset-x-3.5 bottom-3.5 animate-float rounded-2xl bg-white/95 p-3.5 shadow-float backdrop-blur-[6px] sm:left-6 sm:right-auto sm:bottom-6 sm:max-w-[230px] sm:p-4">
           <div className="text-[15px] font-semibold leading-snug text-ink">
-            A care plan built around your family
+            Care plan built around you
           </div>
           <div className="mt-1 text-[13px] leading-snug text-body-muted">
             Personalized, one-on-one support.

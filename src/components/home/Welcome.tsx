@@ -16,7 +16,7 @@ export default function Welcome() {
         <div>
           <Eyebrow className="mb-5">Welcome to KinDa Care</Eyebrow>
           <h2 className="mb-6 font-display text-3xl font-medium leading-[1.08] tracking-[-0.015em] text-ink [text-wrap:balance] md:text-[48px]">
-            Compassionate care, in the comfort of home.
+            Compassionate care at home.
           </h2>
           <p className="mb-[18px] text-[18px] leading-[1.7] text-body">
             KinDa Care Home Health provides a wide range of services tailored to each client, ensuring
