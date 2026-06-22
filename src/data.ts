@@ -160,8 +160,8 @@ export const companyValues: CompanyValue[] = [
   },
   {
     num: '04',
-    title: 'Independence',
-    desc: 'Care that helps loved ones stay active and at home.',
+    title: 'Professional',
+    desc: 'Skilled, credentialed caregivers held to the highest standards.',
   },
 ];
 

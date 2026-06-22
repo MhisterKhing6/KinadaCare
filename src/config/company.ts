@@ -9,7 +9,7 @@ export const COMPANY = {
   phone: '(713) 239-5361',
   phoneHref: 'tel:7132395361',
   fax: '(713) 405-2317',
-  email: 'info@kindacarehc.com',
+  email: 'kindacarehc@gmail.com',
   hours: 'Mon–Fri 9:00am–5:00pm',
   serviceArea: 'Harris & Montgomery County, Texas',
   /** Public site origin — update to the real domain when it goes live. */
