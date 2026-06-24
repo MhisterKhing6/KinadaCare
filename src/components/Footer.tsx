@@ -92,6 +92,19 @@ export default function Footer() {
           </span>
           <span>Compassionate home health care · {COMPANY.serviceArea}</span>
         </div>
+        <div className="border-t border-white/10">
+          <div className="mx-auto max-w-container px-6 py-3.5 text-center text-[13px] text-[#7186A5] sm:px-8">
+            Created by{' '}
+            <a
+              href="https://mhisterkhing6.github.io/personalportfolio/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-[#B9C6DA] transition-colors hover:text-white"
+            >
+              KB Empire
+            </a>
+          </div>
+        </div>
       </div>
     </footer>
   );

@@ -39,12 +39,13 @@ export default function AboutPage() {
               Our mission
             </h2>
             <p className="mb-[18px] text-[18px] leading-[1.75] text-body">
-              KinDa Care Home Health exists to deliver compassionate, professional care that lets
-              people live comfortably and with dignity in their own homes.
+              KinDa Care Home Health exists to provide compassionate, professional care that helps
+              our clients live comfortably at home with dignity.
             </p>
             <p className="text-[18px] leading-[1.75] text-body">
-              We work alongside families to create care plans tailored to each person, protecting
-              their independence while keeping them an active, cherished part of the family.
+              We work alongside families to create care plans tailored to our clients' individual
+              needs, protecting their independence while keeping them an active, cherished part of
+              the family.
             </p>
           </div>
         </div>
