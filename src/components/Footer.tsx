@@ -19,7 +19,7 @@ export default function Footer() {
           <div className="mb-5 flex items-center gap-3">
             <span className="flex h-[46px] w-[46px] items-center justify-center overflow-hidden rounded-full bg-white">
               <img
-                src={asset('/assets/logo-mark.png')}
+                src={asset('/assets/logo-mark.webp')}
                 alt={`${COMPANY.name} logo`}
                 className="h-[38px] w-[38px] object-contain"
               />

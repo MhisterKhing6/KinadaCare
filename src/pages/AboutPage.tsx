@@ -29,7 +29,7 @@ export default function AboutPage() {
         <div className="mx-auto grid max-w-container grid-cols-1 items-center gap-10 px-6 py-16 sm:px-8 md:py-24 lg:grid-cols-2 lg:gap-20 lg:py-[100px]">
           <div className="relative h-[380px] overflow-hidden rounded-[22px] bg-[#EAF0E2] shadow-soft md:h-[clamp(380px,48vw,520px)]">
             <ImageSlot
-              src="/assets/family.png"
+              src="/assets/family.webp"
               alt="A multi-generational family staying close and independent at home"
               placeholder="Add a team or care photo"
             />

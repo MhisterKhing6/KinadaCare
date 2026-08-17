@@ -19,7 +19,7 @@ export default function Logo({ light = false, size = 'md' }: Props) {
         }`}
       >
         <img
-          src={asset('/assets/logo-mark.png')}
+          src={asset('/assets/logo-mark.webp')}
           alt={`${COMPANY.name} logo`}
           className={`${markImg} object-contain`}
         />

@@ -8,7 +8,7 @@ export default function Welcome() {
       <div className="mx-auto grid max-w-container grid-cols-1 items-center gap-10 px-6 py-16 sm:px-8 md:py-24 lg:grid-cols-2 lg:gap-[84px] lg:py-[110px]">
         <div className="relative h-[360px] overflow-hidden rounded-[22px] bg-[#EAF0E2] shadow-soft md:h-[clamp(360px,46vw,500px)]">
           <ImageSlot
-            src="/assets/care-at-home.png"
+            src="/assets/care-at-home.webp"
             alt="A KinDa Care caregiver sharing a warm moment with a client at home"
             placeholder="Add a warm photo of care at home"
           />

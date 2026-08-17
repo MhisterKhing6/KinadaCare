@@ -2,7 +2,10 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <!-- PNG first as the fallback; WebP-capable browsers prefer the later, smaller icon.
+         apple-touch-icon must stay PNG — iOS does not accept a WebP touch icon. -->
     <link rel="icon" type="image/png" href="/assets/logo-mark.png" />
+    <link rel="icon" type="image/webp" href="/assets/logo-mark.webp" />
     <link rel="apple-touch-icon" href="/assets/logo-mark.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#0B2E63" />
@@ -23,6 +26,7 @@
       content="Compassionate, professional home health care across Harris and Montgomery County, Texas."
     />
     <meta property="og:url" content="https://www.kindacarehc.com/" />
+    <!-- Keep share images as PNG: some crawlers (WhatsApp, LinkedIn) won't render WebP previews. -->
     <meta property="og:image" content="https://www.kindacarehc.com/assets/banner.png" />
 
     <!-- Twitter -->
@@ -52,7 +56,7 @@
         "url": "https://www.kindacarehc.com/",
         "logo": "https://www.kindacarehc.com/assets/logo-mark.png",
         "image": "https://www.kindacarehc.com/assets/banner.png",
-        "telephone": "+1-713-239-5361",
+        "telephone": "+1-832-521-8590",
         "faxNumber": "+1-713-405-2317",
         "email": "kindacarehc@gmail.com",
         "priceRange": "$$",

@@ -27,7 +27,7 @@ export default function EmploymentPage() {
         </div>
         <div className="relative h-[380px] overflow-hidden rounded-[22px] bg-[#EAF0E2] shadow-soft md:h-[clamp(380px,46vw,500px)]">
           <ImageSlot
-            src="/assets/caregiver-team.png"
+            src="/assets/caregiver-team.webp"
             alt="A KinDa Care nurse caring for a client"
             placeholder="Add a caregiver / team photo"
           />
