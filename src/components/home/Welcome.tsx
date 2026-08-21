@@ -23,7 +23,7 @@ export default function Welcome() {
             they receive the professional, kinder care they deserve while living comfortably at home.
           </p>
           <p className="mb-8 text-[18px] leading-[1.7] text-body">
-            Choosing a reliable home health agency is a crucial step. Together, we build a care plan
+            Choosing a reliable home health agency is a crucial step. Together, we create a care plan
             around your loved one’s unique needs so they keep their independence and stay an active
             part of your family.
           </p>
